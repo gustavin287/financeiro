@@ -1,0 +1,3 @@
+1;Salário;2500.00;Receita;10/11/26;Pago
+2;Energia elétrica;180.50;Despesa;15/11/26;Pendente
+3;Venda de produto;320.00;Receita;20/11/26;Pendente
